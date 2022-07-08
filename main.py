@@ -23,7 +23,7 @@ print(Fore.RED + "          IGRACIAS ITTP TELEGRAM BOT")
 # parameter threaded = True, untuk menjalankan bot dalam thread
 # parameter num_threads = int(2), untuk mengatur jumlah thread
 bot = telebot.TeleBot(
-    token="5341280498:AAE3ZTwNttnUuVkap6c3YdNavyteAx5xLHs",
+    token="",
     parse_mode="HTML",
     threaded=True,
     num_threads=int(2)
